@@ -1,0 +1,563 @@
+[
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "file_name": ".\\amem.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1869amwh",
+        "chefschool": "Catharine Esther Beecher, Harriet Beecher Stowe",
+        "file_name": ".\\amwh.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1896army",
+        "file_name": ".\\army.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "ethnic",
+        "bookID": "1889aunt",
+        "ethnicgroup": "jewish",
+        "file_name": ".\\aunt.xml"
+    },
+    {
+        "type": "general",
+        "class1": "beverages",
+        "region": "general",
+        "bookID": "1917bart",
+        "file_name": ".\\bart.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1850beec",
+        "chefschool": "Catharine Esther Beecher",
+        "file_name": ".\\beec.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "south",
+        "bookID": "1904blue",
+        "file_name": ".\\blue.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "foodandnonfood",
+        "region": "northeast",
+        "bookID": "1896bost",
+        "chefschool": "Boston Cooking School, Fannie Merritt Farmer",
+        "file_name": ".\\bost.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "brkf1875",
+        "file_name": ".\\brkf.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "midwest",
+        "bookID": "1877buck",
+        "file_name": ".\\buck.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "ethnic",
+        "ethnicgroup": "creole",
+        "bookID": "1903cclu",
+        "file_name": ".\\cclu.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1864chas",
+        "file_name": ".\\chas.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "ethnic",
+        "ethnicgroup": "Chinese, Japanese",
+        "bookID": "1914chin",
+        "file_name": ".\\chin.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "breadsweets",
+        "class2": "generalfood",
+        "region": "general",
+        "bookID": "1909choc",
+        "chefschool": "Maria Parloa",
+        "file_name": ".\\choc.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalnonfood",
+        "region": "general",
+        "bookID": "1873comm",
+        "file_name": ".\\comm.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1864conf",
+        "file_name": ".\\conf.xml"
+    },
+    {
+        "type": "encyclopedia",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1832coow",
+        "file_name": ".\\coow.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "south",
+        "subregion": "New Orleans",
+        "ethnicgroup": "Creole",
+        "bookID": "1885creo",
+        "file_name": ".\\creo.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1840dcvb",
+        "chefschool": "Eliza Leslie",
+        "file_name": ".\\dcvb.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "south",
+        "bookID": "1913dish",
+        "file_name": ".\\dish.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1869dome",
+        "file_name": ".\\dome.xml"
+    },
+    {
+        "type": "frugal",
+        "class1": "foodandnonfood",
+        "region": "northeast",
+        "bookID": "1815econ",
+        "file_name": ".\\econ.xml"
+    },
+    {
+        "type": "encyclopedia",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1911ency",
+        "file_name": ".\\ency.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "northeast",
+        "subregion": "New England",
+        "bookID": "1808engl",
+        "file_name": ".\\engl.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1894epic",
+        "file_name": ".\\epia.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1894,epic2",
+        "file_name": ".\\epib.xml"
+    },
+    {
+        "type": "charity",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1893favd",
+        "file_name": ".\\favd.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "medhealth",
+        "bookID": "1904fcsc",
+        "region": "general",
+        "chefschool": "Fannie Merritt Farmer",
+        "file_name": ".\\fcsc.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "south",
+        "bookID": "1881fish",
+        "file_name": ".\\fish.xml"
+    },
+    {
+        "type": "general",
+        "class1": "medhealth",
+        "region": "ethnic",
+        "ethnicgroup": "Mexican, Portugese, Italian, Hungarian, Polish/Slavic, Armenian, Syrian, Turkish, Greek, Jewish",
+        "class2": "generalfood",
+        "bookID": "1922fofb",
+        "file_name": ".\\fofb.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "file_name": ".\\fore.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "ethnic",
+        "ethnicgroup": "french",
+        "bookID": "1893fran",
+        "file_name": ".\\fran.xml"
+    },
+    {
+        "type": "frugal",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1803frca",
+        "file_name": ".\\frca.xml"
+    },
+    {
+        "type": "frugal",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1830frch",
+        "file_name": ".\\frch.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "bookID": "1839gohk",
+        "region": "general",
+        "file_name": ".\\gohk.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1909good",
+        "file_name": ".\\good.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "west",
+        "bookID": "1857grea",
+        "file_name": ".\\grea.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1911gtte",
+        "file_name": ".\\gtte.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "c1868",
+        "file_name": ".\\hand.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1897henr",
+        "file_name": ".\\henr.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1919hosf",
+        "file_name": ".\\hosf.xml"
+    },
+    {
+        "type": "restaurant",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1848hote",
+        "file_name": ".\\hote.xml"
+    },
+    {
+        "type": "general",
+        "class1": "household",
+        "region": "general",
+        "bookID": "1827hous",
+        "file_name": ".\\hous.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "ethnic",
+        "ethnicgroup": "Italian",
+        "bookID": "1919ital",
+        "file_name": ".\\ital.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalnonfood",
+        "region": "general",
+        "bookID": "c1866,c1870jenn",
+        "file_name": ".\\jenn.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "ethnic",
+        "ethnicgroup": "Jewish",
+        "bookID": "1919,c1918jewi",
+        "file_name": ".\\jewi.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "c1846,c1847lady",
+        "chefschool": "Eliza Leslie",
+        "file_name": ".\\lady.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1852ldnw",
+        "file_name": ".\\ldnw.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "foodandnonfood",
+        "region": "northeast",
+        "bookID": "1884linc",
+        "chefschool": "Mary Johnson Lincoln, Boston Cooking School",
+        "file_name": ".\\linc.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "northeast",
+        "subregion": "New York, Boston, Philadelphia, Brooklyn",
+        "bookID": "1867mara",
+        "file_name": ".\\mara.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1912mary",
+        "file_name": ".\\mary.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1915matf",
+        "file_name": ".\\matf.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "missparloa",
+        "chefschool": "Maria Parloa",
+        "file_name": ".\\miss.xml"
+    },
+    {
+        "type": "charity",
+        "class1": "foodandnonfood",
+        "region": "ethnic",
+        "ethnicgroup": "jewish",
+        "bookID": "1914neig",
+        "file_name": ".\\neig.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalnonfood",
+        "region": "general",
+        "bookID": "1831notm",
+        "file_name": ".\\notm.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1877oldv",
+        "file_name": ".\\oldv.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "ethnic",
+        "ethnicgroup": "Oriental",
+        "bookID": "1913orie",
+        "file_name": ".\\orie.xml"
+    },
+    {
+        "type": "famous",
+        "class1": "generalfood",
+        "class2": "household",
+        "region": "general",
+        "bookID": "1886pach",
+        "chefschool": "Juliet Corson",
+        "file_name": ".\\pach.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1876pcdg",
+        "file_name": ".\\pcdg.xml"
+    },
+    {
+        "type": "frugal",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1890prac",
+        "file_name": ".\\prac.xml"
+    },
+    {
+        "type": "charity",
+        "class1": "generalfood",
+        "region": "midwest",
+        "bookID": "1873pres",
+        "subregion": "ohio",
+        "file_name": ".\\pres.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1857prho",
+        "file_name": ".\\prho.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1902rore",
+        "file_name": ".\\rore.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "ethnic",
+        "bookID": "1902sauc",
+        "file_name": ".\\sauc.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1893,c1892scie",
+        "file_name": ".\\scie.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "midwest",
+        "bookID": "sett",
+        "file_name": ".\\sett.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1832sevf",
+        "file_name": ".\\sevf.xml"
+    },
+    {
+        "type": "general",
+        "region": "ethnic",
+        "class1": "generalfood",
+        "bookID": "swed1895",
+        "ethnicgroup": "swedish",
+        "file_name": ".\\swed.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1807syst",
+        "file_name": ".\\syst.xml"
+    },
+    {
+        "type": "charity",
+        "class1": "generalfood",
+        "region": "ethnic",
+        "ethnicgroup": "California, Spanish and Mexican ",
+        "bookID": "1905time",
+        "file_name": ".\\time.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1838virg",
+        "file_name": ".\\virg.xml"
+    },
+    {
+        "type": "charity",
+        "class1": "foodandnonfood",
+        "region": "west",
+        "bookID": "1909wash",
+        "file_name": ".\\wash.xml"
+    },
+    {
+        "type": "general",
+        "class1": "generalfood",
+        "region": "general",
+        "bookID": "1887whit",
+        "file_name": ".\\whit.xml"
+    },
+    {
+        "type": "charity",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "1886wosu",
+        "file_name": ".\\wosu.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "general",
+        "bookID": "younghousekeeper",
+        "file_name": ".\\youn.xml"
+    },
+    {
+        "type": "general",
+        "class1": "foodandnonfood",
+        "region": "west",
+        "subregion": "southwest",
+        "ethnicgroup": "Native American/Pueblo Indians",
+        "bookID": "1920zuni",
+        "file_name": ".\\zuni.xml"
+    }
+]

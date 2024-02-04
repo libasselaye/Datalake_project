@@ -1,0 +1,534 @@
+[
+    {
+        "file_name": ".\\cookbook_textencoded/amem.xml",
+        "file_size": 691,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\amem.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/amwh.xml",
+        "file_size": 1108090,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\amwh.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 15:04:26"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/army.xml",
+        "file_size": 845434,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\army.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/aunt.xml",
+        "file_size": 1288413,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\aunt.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/bart.xml",
+        "file_size": 141215,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\bart.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/beec.xml",
+        "file_size": 943844,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\beec.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/blue.xml",
+        "file_size": 618921,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\blue.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/bost.xml",
+        "file_size": 1966430,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\bost.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/brkf.xml",
+        "file_size": 1040319,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\brkf.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/buck.xml",
+        "file_size": 1693557,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\buck.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/cclu.xml",
+        "file_size": 321058,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\cclu.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/chas.xml",
+        "file_size": 1329992,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\chas.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/chin.xml",
+        "file_size": 181619,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\chin.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/choc.xml",
+        "file_size": 254841,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\choc.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/comm.xml",
+        "file_size": 1469622,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\comm.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/conf.xml",
+        "file_size": 647028,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\conf.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/coow.xml",
+        "file_size": 2511765,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\coow.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/creo.xml",
+        "file_size": 777300,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\creo.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/dcvb.xml",
+        "file_size": 1148275,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\dcvb.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/dish.xml",
+        "file_size": 468634,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\dish.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/dome.xml",
+        "file_size": 791668,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\dome.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/econ.xml",
+        "file_size": 341560,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\econ.xml",
+        "date_creation": "2014-11-06 15:41:42",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/ency.xml",
+        "file_size": 2308794,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\ency.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/engl.xml",
+        "file_size": 232239,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\engl.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/epia.xml",
+        "file_size": 3735816,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\epia.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/epib.xml",
+        "file_size": 3827612,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\epib.xml",
+        "date_creation": "2014-11-06 15:41:42",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/favd.xml",
+        "file_size": 497726,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\favd.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/fcsc.xml",
+        "file_size": 945462,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\fcsc.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/fish.xml",
+        "file_size": 191802,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\fish.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/fofb.xml",
+        "file_size": 229145,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\fofb.xml",
+        "date_creation": "2014-11-06 15:41:42",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/fore.xml",
+        "file_size": 460,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\fore.xml",
+        "date_creation": "2014-11-06 15:41:42",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/fran.xml",
+        "file_size": 592462,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\fran.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/frca.xml",
+        "file_size": 512582,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\frca.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/frch.xml",
+        "file_size": 294153,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\frch.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/gohk.xml",
+        "file_size": 401840,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\gohk.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/good.xml",
+        "file_size": 547447,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\good.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/grea.xml",
+        "file_size": 303138,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\grea.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/gtte.xml",
+        "file_size": 545588,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\gtte.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/hand.xml",
+        "file_size": 1445872,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\hand.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/henr.xml",
+        "file_size": 1990377,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\henr.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:17"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/hosf.xml",
+        "file_size": 2599496,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\hosf.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/hote.xml",
+        "file_size": 167883,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\hote.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/hous.xml",
+        "file_size": 348454,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\hous.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/ital.xml",
+        "file_size": 333308,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\ital.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/jenn.xml",
+        "file_size": 1177488,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\jenn.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/jewi.xml",
+        "file_size": 1798881,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\jewi.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/lady.xml",
+        "file_size": 1023643,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\lady.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/ldnw.xml",
+        "file_size": 1726617,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\ldnw.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/linc.xml",
+        "file_size": 1807700,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\linc.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/mara.xml",
+        "file_size": 1273532,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\mara.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/mary.xml",
+        "file_size": 261466,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\mary.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/matf.xml",
+        "file_size": 1220715,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\matf.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/miss.xml",
+        "file_size": 1170421,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\miss.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/neig.xml",
+        "file_size": 1050372,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\neig.xml",
+        "date_creation": "2014-11-06 15:41:42",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/notm.xml",
+        "file_size": 296696,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\notm.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/oldv.xml",
+        "file_size": 1655663,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\oldv.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/orie.xml",
+        "file_size": 600520,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\orie.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/pach.xml",
+        "file_size": 1565622,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\pach.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/pcdg.xml",
+        "file_size": 1240258,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\pcdg.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/prac.xml",
+        "file_size": 506299,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\prac.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/pres.xml",
+        "file_size": 542918,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\pres.xml",
+        "date_creation": "2014-11-06 15:41:42",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/prho.xml",
+        "file_size": 2324830,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\prho.xml",
+        "date_creation": "2014-11-10 14:18:24",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/rore.xml",
+        "file_size": 2126576,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\rore.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/sauc.xml",
+        "file_size": 665110,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\sauc.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/scie.xml",
+        "file_size": 2120026,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\scie.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/sett.xml",
+        "file_size": 2050106,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\sett.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/sevf.xml",
+        "file_size": 242157,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\sevf.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/swed.xml",
+        "file_size": 615310,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\swed.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/syst.xml",
+        "file_size": 1372937,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\syst.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/time.xml",
+        "file_size": 890208,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\time.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/virg.xml",
+        "file_size": 476059,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\virg.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/wash.xml",
+        "file_size": 752952,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\wash.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:19"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/whit.xml",
+        "file_size": 2101129,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\whit.xml",
+        "date_creation": "2014-11-06 15:41:38",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/wosu.xml",
+        "file_size": 482212,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\wosu.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:18"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/youn.xml",
+        "file_size": 545173,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\youn.xml",
+        "date_creation": "2014-11-06 15:41:40",
+        "date_update": "2022-04-05 14:20:20"
+    },
+    {
+        "file_name": ".\\cookbook_textencoded/zuni.xml",
+        "file_size": 901877,
+        "file_path": "C:\\Users\\libas\\Desktop\\M2 Data Mining\\8-Big_Data_Management\\Projet_Datalake\\cookbook_textencoded\\zuni.xml",
+        "date_creation": "2014-11-06 15:41:36",
+        "date_update": "2022-04-05 14:20:19"
+    }
+]
